@@ -1,0 +1,29 @@
+{
+  "name": "dynamic_men_web",
+  "version": "1.0.0",
+  "description": "Dynamic Website using mern as a backend and it is a practise project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/app.js -e js,hbs",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkashMaurya2037/DynamicWebMern.git"
+  },
+  "author": "Akash Maurya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkashMaurya2037/DynamicWebMern/issues"
+  },
+  "homepage": "https://github.com/AkashMaurya2037/DynamicWebMern#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "jquery": "^3.7.0",
+    "mongoose": "^7.2.0"
+  }
+}
