@@ -1,6 +1,6 @@
 const mongodb = require("mongoose")
 
-mongodb.connect("mongodb://localhost:27017/dynamicMen",{})
+mongodb.connect("mongodb://localhost:27017/DynamicWebMern",{})
 .then(()=>{
     console.log("MongoDB is Connected")
 }).catch((error)=>{

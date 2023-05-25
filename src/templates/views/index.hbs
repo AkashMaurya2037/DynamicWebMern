@@ -38,35 +38,21 @@
 
         {{!-- Hero End Section --}}
 
-            {{!-- About Section Start--}}
-
-    <div class="container-fluid mt-5 about-style" id="aboutid">
-        <div class="row">
-            <div class="col-md-10 col-12 mx-auto">
-                <h1 class="text-center main-heading">About Us</h1>
-                <p class="text-center sub-heading">Grow your business with us</p>
-                <div class="row">
-                   <div class="col-md-6 col-12 hero-text ">
-                        <figure>
-                            <img src="Images/about.svg" alt="Hero Section Image">
-                        </figure>
-                    </div>
-                    {{!-- Right Side --}}
-                     <div class="col-md-6 col-12 hero-text  align-items-start d-flex justify-content-center flex-column">
-                        
-                        <h1>WE WILL HELP YOU TO</h1>
-                        <h1>GROW YOUR BUSINESS</h1>
-                        <p>We are the team of <span class="bold-style">Professional Developer</span></p>
-                        <button class="btn-style btn-primary">Read More</button>
-                    </div>
-                    
-                </div>
-            </div>
-        </div>
-    </div>
-
+        {{!-- About Section Start--}}
+        {{>about}}
         {{!-- About Section End --}}
 
+        {{!-- Service Section Start--}}
+        {{>service}}
+        {{!-- Service Section End --}}
+
+        {{!-- Map Section Start--}}
+        {{>map}}
+        {{!-- Map Section End --}}
+        
+        {{!-- Contact Section Start--}}
+        {{>contact}}
+        {{!-- Contact Section End --}}
 
     <script src="../jq/jquery.js" type="text/javascript"></script>
     <script src="../jq/bootstrap.js" type="text/javascript"></script>

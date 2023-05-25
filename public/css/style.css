@@ -94,6 +94,7 @@ label {
 }
 
 .btn-style {
+  margin-top: 9px;
   padding: 12px 25px;
   border: none;
   color: #fff;
@@ -224,7 +225,7 @@ label {
 }
 
 .form-control {
-  padding: 2rem 1rem;
+  padding: 1rem 1rem;
   font-size: 1.7rem;
   font-weight: 600;
 }
