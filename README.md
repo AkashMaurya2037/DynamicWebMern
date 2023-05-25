@@ -28,7 +28,7 @@ for run with nodemon use this command :
 
 # Hi, I'm Akash Maurya! 👋
 
-I'm a Web Developer with a passion for exploring new games. This project is a showcase of my skills in Rest API, and I hope it demonstrates my ability to scalable and user-friendly applications. Thank you for visiting my project, and feel free to explore my other projects.
+Hello, there! I'm Akash Maurya, a young school boy with a passion for web development. I'm currently diving deep into the exciting world of MERN (MongoDB, Express.js, React, Node.js) stack development and actively working on various projects. With each new project, I'm honing my skills and expanding my knowledge in this dynamic field. Join me on this journey as I explore the limitless possibilities of web development and strive to create innovative solutions that leave a lasting impact. Let's build amazing things together!
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-maurya-457b25262/)
 
